@@ -3,7 +3,7 @@ requires = ["setuptools", "setuptools_scm[toml]"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pywebview"
+name = "oraios-pywebview"
 authors = [{ name = "Roman Sirokov", email = "roman@flowrl.com" }]
 description = "Build GUI for your Python program with JavaScript, HTML, and CSS"
 keywords = ["gui", "webkit", "html", "web"]
